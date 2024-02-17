@@ -1,2 +1,2 @@
-Hello Diniru
-Sliit SE students
+Hello akith
+Hello from VS code
